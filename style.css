@@ -1,0 +1,9 @@
+.image_div {
+	background-image: 'https://css-tricks.com/wp-content/uploads/2022/02/css-grid-poster.png';
+}
+
+.header {
+	background-color: blue;
+	display: flex;
+	justify-content: space-between;
+}
